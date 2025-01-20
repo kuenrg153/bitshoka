@@ -1,6 +1,12 @@
 ```
 Open Source is Intrinsic to Bitcoin
 ```
+# The bitshoka V1.0
+The Bitshoka V1.0 is based entirely off of the Bitaxe. The only difference are the logos on Schematic and PCB.
+Huge shoutout to skot for all the work he did create this project!
+The aim Bitshoka V1.0 is to have a Made in Africa Bitcoin miner that works as a platform to get people interested in and familiar with Bitcoin mining.
+We hope that this is the first of a number of contributions the Bitshoka team can make to the bitcoin network.
+
 # The bitaxeGamma
 bitaxe is a fully open source Bitcoin ASIC miner aimed at decentralizing mining. bitaxeGamma is the 5th major revision of the bitaxe that now includes the BM1370 ASIC from the Antminer S21 Pro
 
